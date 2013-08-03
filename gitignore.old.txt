@@ -1,0 +1,19 @@
+# Ant specific
+#dist/
+#build/
+ 
+# Netbeans specific
+#core
+#nbproject/private
+
+# Java
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Linux
+.directory
+*~
